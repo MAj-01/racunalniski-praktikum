@@ -4,4 +4,4 @@ Alt + F4 (s to bližnjico hitreje zapiram aplikacije)
 Ctrl + N (to uporabljam pri odpiranju novega okna)
 
 
-dopolni README
+
