@@ -46,3 +46,4 @@ Včasih pride prav značka  <kbd>kbd</kbd>  za tipke. Značko uporabimo takole:
 1. [Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
 1. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 1. [povezava za spletno stran](https://maj-01.github.io/)
+1. [(https://maj-01.github.io/)]
